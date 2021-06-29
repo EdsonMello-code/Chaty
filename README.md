@@ -2,8 +2,6 @@
   <h1 style="color: red">Cha<span style="color: blue">ty</span></h1>
 </div>
 
-## App built in flutter
-
 ## Overview
 
 ### App real time com nodejs and flutter for trainer of toolkit flutter
